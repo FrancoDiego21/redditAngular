@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id" : 1, 
+      "titolo" : "Google", 
+      "url": "www.google.it", 
+      "like": 104
+    }, 
+    {
+      "id" : 2, 
+      "titolo" : "Github", 
+      "url": "www.github.com", 
+      "like": 189
+    }, 
+    {
+      "id" : 3, 
+      "titolo" : "", 
+      "url": "www.google.it", 
+      "like": 104
+    }, 
+    {  
+      "id" : 4, 
+      "titolo" : "YouTube", 
+      "url": "www.youtube.it", 
+      "like": 6
+     }
+  ]
+}
